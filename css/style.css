@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "loveloline_light";
+    src: url("Lovelo_Line_Light.eot") format("eot"),
+         url("Lovelo_Line_Light.svg") format("svg"),
+         url("Lovelo_Line_Light.ttf") format("ttf"),
+         url("Lovelo_Line_Light.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+h1 {
+  font-family: "loveloline_light";
+}
